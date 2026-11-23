@@ -1,0 +1,7 @@
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.asv
+
+# Office documents
+*.docx
